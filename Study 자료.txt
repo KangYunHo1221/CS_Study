@@ -1,0 +1,21 @@
+Dropout 조정관련 > 베이즈 이론(통계학) >uncertainity
+
+https://arxiv.org/pdf/1705.07832.pdf (유린갈 논문) 
+https://github.com/yaringal/ConcreteDropout/blob/master/concrete-dropout-pytorch.ipynb (구현 코드)
+https://signing.tistory.com/82(야린 갈논문리뷰)
+
+
+
+
+화자인식
+https://www.youtube.com/watch?v=HzgCnlre4EE
+
+
+
+Mixup for Sound
+https://arxiv.org/abs/1808.08405
+
+
+
+가중치 초기화 방법론
+https://reniew.github.io/13/
