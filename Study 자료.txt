@@ -1,4 +1,4 @@
-Dropout 조정관련 > 베이즈 이론(통계학) >uncertainity
+Dropout 조정관련 > 베이즈 이론(통계학) >uncertainity > 퍼지이론
 
 https://arxiv.org/pdf/1705.07832.pdf (유린갈 논문) 
 https://github.com/yaringal/ConcreteDropout/blob/master/concrete-dropout-pytorch.ipynb (구현 코드)
@@ -19,3 +19,9 @@ https://arxiv.org/abs/1808.08405
 
 가중치 초기화 방법론
 https://reniew.github.io/13/
+
+
+
+
+nlp이론
+oov에 유리한 fasttext(n-gram)를 이용한다. 이것보다는 근데 사람이 인식할때 단어의 처음과 끝이랑 중간내용이 더 중요하게 인식다던하데(인식한다던데) 이런 특성을 이용하는게 낫지 않나?
