@@ -2,6 +2,4 @@
 
 Computer Science 공부내용
 
-
-https://img.shields.io/static/v1?label=<Computer Architecture>&message=<MESSAGE>&color=<Grean>
-https://img.shields.io/static/v1?label=<DB>&message=<MESSAGE>&color=<Red>
+<img src="https://img.shields.io/badge/ Computer_Archtecture-Red?style=flat-square&logo=simpleicons&logoColor=white"/></a>&nbsp 
